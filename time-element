@@ -1,0 +1,9 @@
+
+Date
+<time datetime="2018-07-07">July 7</time>
+
+Time
+<time datetime="20:00">20:00</time>
+
+Duration
+<time datetime="PT2H30M">2h 30m</time>
